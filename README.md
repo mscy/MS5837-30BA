@@ -1,4 +1,4 @@
-# MS5837-30BA
+# MS5837-30BA driver for ESP-IDF
 The MS5837-30BA is a high-resolution pressure and temperature sensor 
 from TE Connectivity (TE) with I2C bus interface. This sensor is optimized 
 for water depth measurement systems with a resolution of 0.2 cm. The
