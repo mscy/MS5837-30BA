@@ -14,4 +14,4 @@ protocol is simple, without the need of programming internal registers in the
 device. The gel protection and antimagnetic stainless-steel cap make the 
 module water resistant.
 
-this driver was verified on a esp32-c6 dev kit, sensor was connected to the I2C bus, please review main.c to undersand the logic and I added void i2c_scan() to help you find out how many devices connected to the bus.
+The driver was verified on an esp32-c6 dev kit, sensor was connected to the I2C bus, please review main.c to undersand the logic and I added void i2c_scan() to help you find out how many devices connected to the bus.
