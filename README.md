@@ -19,5 +19,8 @@ The driver was verified on an esp32-c6 dev kit, sensor was connected to the I2C 
 https://www.mouser.com/datasheet/2/418/6/ENG_DS_MS5837_30BA_C2-1130109.pdf
 
 
-![Alt text](Screenshot 2026-01-19 at 00.08.16.png)
+![Alt text](https://github.com/mscy/MS5837-30BA/blob/main/Screenshot%202026-01-19%20at%2000.22.16.png?raw=true)
+![Alt text](https://github.com/mscy/MS5837-30BA/blob/main/Screenshot%202026-01-19%20at%2000.08.16.png?raw=true)
+![Alt text](https://github.com/mscy/MS5837-30BA/blob/main/Screenshot%202026-01-19%20at%2000.22.16.png?raw=true)
+
 
