@@ -15,6 +15,7 @@ device. The gel protection and antimagnetic stainless-steel cap make the
 module water resistant.
 
 The driver was verified on an esp32-c6 dev kit, sensor was connected to the I2C bus, please review main.c to undersand the logic and I added void i2c_scan() to help you find out how many devices connected to the bus.
+<img width="731" height="396" alt="Screenshot 2026-01-19 at 00 43 18" src="https://github.com/user-attachments/assets/75380670-b6f1-40e8-b29b-c45d6ddf30b5" />
 
 https://www.mouser.com/datasheet/2/418/6/ENG_DS_MS5837_30BA_C2-1130109.pdf
 
